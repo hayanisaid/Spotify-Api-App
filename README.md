@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # NgSpotfiy
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
@@ -34,3 +35,7 @@ To get more help on the `angular-cli` use `ng help` or go check out the [Angular
 # Angular-Spotify-App
 Spotify Api App with Angular2
 >>>>>>> d9816dd3669c0572dd505f9f1b8d96228110cda5
+=======
+# Spotify-Api-App
+Spotify Api App with Angular2
+>>>>>>> 98595c4d59e4b0ca2f85b1c595dcd268449bbf1e
