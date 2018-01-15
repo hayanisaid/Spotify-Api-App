@@ -5,7 +5,7 @@ import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './component/navbar/navbar.component';
-
+import {SpotfiyService} from "./service/spotify.service";
 import {appRouting,RoutingComponent} from './app-routing';
 @NgModule({
   declarations: [
@@ -19,7 +19,7 @@ import {appRouting,RoutingComponent} from './app-routing';
     HttpModule,
     appRouting
   ],
-  providers: [],
+  providers: [SpotfiyService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
